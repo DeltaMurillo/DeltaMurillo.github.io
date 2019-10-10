@@ -42,6 +42,7 @@ body {
     font-family: "Josefin Sans",sans-serif;
 }
 
-.navbar-custom{
-         background-color: #000000;
+.navbar, .fixed-top{
+    color: white !important;
+    background-color:#000000;
 }
